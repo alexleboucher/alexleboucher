@@ -1,3 +1,6 @@
+
+![Alex header](https://github.com/alexleboucher/alexleboucher/blob/main/github-header-image%20(13).png)
+
 ### Hi there 👋
 
 <!--
