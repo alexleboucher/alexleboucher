@@ -8,7 +8,7 @@
 - 🚀 Fullstack developer at [Osedea](https://www.osedea.com/)
 - 🌱 Always learning development 
 - 🔭 Currently working on some secret projects
-- 🙉 Hobbies include coding, eating, reading One Piece and clilling with friends
+- 🙉 Hobbies include coding, eating, reading One Piece and chilling with friends
 - 📫 How to reach me: [dev.alexisleboucher@gmail.com](mailto:dev.alexisleboucher@gmail.com)
 
 </br>
