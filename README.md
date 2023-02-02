@@ -1,5 +1,5 @@
 
-![Alex header](https://github.com/alexleboucher/alexleboucher/blob/main/header-image.png)
+![Alex header](https://github.com/alexleboucher/alexleboucher/blob/main/header-image-dracula.png)
 
 ## Hi there 👋
 
