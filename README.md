@@ -22,4 +22,4 @@
 ![Alex's GitHub stats](https://github-readme-stats-org-ten.vercel.app/api?username=alexleboucher&include_all_commits=true&count_private=true&show_icons=true&theme=dracula&hide=stars&border_radius=14.5)
 
 ### ⚡ Recent GitHub Activity
-![Alex's GitHub activity](https://github-readme-activity-graph.cyclic.app/graph/?username=alexleboucher&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
+![Alex's GitHub activity](https://github-readme-activity-graph.vercel.app/graph/?username=alexleboucher&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true)
