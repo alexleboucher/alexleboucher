@@ -5,11 +5,11 @@
 
 ## Hi there 👋
 
-- 🚀 Fullstack developer at [Osedea](https://www.osedea.com/)
+- 🚀 Freelance fullstack developer
 - 🌱 Always learning development 
 - 🔭 Currently working on some secret projects
 - 🙉 Hobbies include coding, eating, reading One Piece and chilling with friends
-- 📫 How to reach me: [dev.alexisleboucher@gmail.com](mailto:dev.alexisleboucher@gmail.com)
+- 📫 How to reach me: [freelance.alexisleboucher@gmail.com](mailto:freelance.alexisleboucher@gmail.com)
 
 </br>
 
