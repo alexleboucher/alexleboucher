@@ -1,7 +1,7 @@
 
-![Alex header](https://github.com/alexleboucher/alexleboucher/blob/main/header-image-dracula.png)
+![Alex header](https://github.com/alexleboucher/alexleboucher/blob/main/github-header-image.png)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=1000&lines=Alexis+Le+Boucher;Fullstack+Developer+at+Osedea;Passionate+developer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=1000&lines=Alexis+Le+Boucher;Freelance+Fullstack+Developer;Passionate+developer)
 
 ## Hi there 👋
 
