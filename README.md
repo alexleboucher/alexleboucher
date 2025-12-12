@@ -16,7 +16,7 @@
 ## 📈 My Github stats
 
 ### 🔥 Streak Stats
-![Alex's GitHub Streak](https://streak-stats.demolab.com?user=alexleboucher&theme=dracula&border_radius=20)
+![Alex's GitHub Streak](https://streak-stats.demolab.com/?user=alexleboucher&theme=dracula&border_radius=20)
 
 ### 💻  GitHub Profile Stats
 ![Alex's GitHub stats](https://github-readme-stats-org-ten.vercel.app/api?username=alexleboucher&include_all_commits=true&count_private=true&show_icons=true&theme=dracula&hide=stars&border_radius=14.5)
